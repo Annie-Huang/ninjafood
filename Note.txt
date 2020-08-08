@@ -5,7 +5,8 @@ https://github.com/iamshaunjp/tailwind-tutorial     << Need to select different 
 https://github.com/Annie-Huang/ninjafood
 
 https://tailwindcss.com/docs/installation/
-
+https://tailwindcss.com/docs/font-size/#app
+https://tailwindcss.com/docs/customizing-colors#default-color-palette
 ===================================================================================
 Up to:
 Tailwind CSS Tutorial #3 - Fonts & Colors
