@@ -4,7 +4,8 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 https://github.com/Annie-Huang/ninjafood
 
 ===================================================================================
-
+Up to:
+Tailwind CSS Tutorial #1 - Intro & Setup
 
 git init
 git add README.md
