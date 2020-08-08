@@ -4,3 +4,12 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 https://github.com/Annie-Huang/ninjafood
 
 ===================================================================================
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Annie-Huang/ninjafood.git
+git push -u origin master
+
+C:\react\ninjafood>npm install tailwindcss
