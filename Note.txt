@@ -8,7 +8,7 @@ https://tailwindcss.com/docs/installation/
 
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #1 - Intro & Setup
+Tailwind CSS Tutorial #2 - HTML Template
 
 git init
 git add README.md
