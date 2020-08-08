@@ -1,7 +1,8 @@
 Tailwind CSS Tutorial
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
-
 https://github.com/Annie-Huang/ninjafood
+
+https://tailwindcss.com/docs/installation/
 
 ===================================================================================
 Up to:
@@ -14,3 +15,4 @@ git remote add origin git@github.com:Annie-Huang/ninjafood.git
 git push -u origin master
 
 C:\react\ninjafood>npm install tailwindcss
+C:\react\ninjafood>npm run build-css
