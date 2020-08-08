@@ -1,5 +1,7 @@
 Tailwind CSS Tutorial
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+
+https://github.com/iamshaunjp/tailwind-tutorial     << Need to select different branch for each lesson
 https://github.com/Annie-Huang/ninjafood
 
 https://tailwindcss.com/docs/installation/
