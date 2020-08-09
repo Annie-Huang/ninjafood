@@ -15,7 +15,7 @@ https://tailwindcss.com/docs/border-color
 https://tailwindcss.com/docs/configuration/#app
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #5 - Tailwind Config
+Tailwind CSS Tutorial #6 - Custom Fonts
 
 git init
 git add README.md
