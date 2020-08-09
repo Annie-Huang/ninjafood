@@ -13,6 +13,9 @@ https://tailwindcss.com/docs/border-width
 https://tailwindcss.com/docs/border-color
 
 https://tailwindcss.com/docs/configuration/#app
+
+https://fonts.google.com/specimen/Nunito?query=nunito
+
 ===================================================================================
 Up to:
 Tailwind CSS Tutorial #6 - Custom Fonts
@@ -65,3 +68,12 @@ Currently available font from tailwind-default.config.js:
       serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: ['Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
     },
+
+
+Import from google font:
+To embed a font, copy the code into the <head> of your html
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+</style>
+CSS rules to specify families
+font-family: 'Nunito', sans-serif;
