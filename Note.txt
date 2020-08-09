@@ -35,3 +35,11 @@ npm run build-css
 to regenerate the public/styles.css file. And then you can start using it in index.html
 
 C:\react\ninjafood>npm run build-css     << Rebuild, need to do it everything you change tailwind.config.js
+
+Once you add a color, e.g.
+        primary: '#ff6363',
+        secondary: {
+          100: '#e3e3D5',
+          200: '#888883',
+        }
+Then you do can 'text-primary', 'border-primary', "bg-secondary-100 text-secondary-200" etc
