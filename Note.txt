@@ -144,4 +144,5 @@ font-family: 'Nunito', sans-serif;
 <nav class="text-right">                        << Shift text to the right.
 <div class="px-4 cursor-pointer md:hidden">     << Display none
 <div class="flex justify-between items-center">     << items-center is align-items
+<ul class="text-sm mt-6 hidden md:block">           << small screen is display none and >md is display block
 
