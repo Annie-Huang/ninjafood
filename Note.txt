@@ -13,7 +13,7 @@ https://tailwindcss.com/docs/border-width
 https://tailwindcss.com/docs/border-color
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #4 - Margin, Padding & Borders
+Tailwind CSS Tutorial #5 - Tailwind Config
 
 git init
 git add README.md
