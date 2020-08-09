@@ -13,6 +13,8 @@ https://tailwindcss.com/docs/border-width
 https://tailwindcss.com/docs/border-color
 
 https://tailwindcss.com/docs/configuration/#app
+https://tailwindcss.com/docs/justify-content
+
 
 https://fonts.google.com/specimen/Nunito?query=nunito
 
