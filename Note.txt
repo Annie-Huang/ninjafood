@@ -11,6 +11,8 @@ https://tailwindcss.com/docs/padding
 https://tailwindcss.com/docs/margin
 https://tailwindcss.com/docs/border-width
 https://tailwindcss.com/docs/border-color
+
+https://tailwindcss.com/docs/configuration/#app
 ===================================================================================
 Up to:
 Tailwind CSS Tutorial #5 - Tailwind Config
@@ -23,3 +25,5 @@ git push -u origin master
 
 C:\react\ninjafood>npm install tailwindcss
 C:\react\ninjafood>npm run build-css
+
+C:\react\ninjafood>npx tailwindcss init --full
