@@ -16,6 +16,8 @@ https://tailwindcss.com/docs/configuration/#app
 https://tailwindcss.com/docs/justify-content
 https://tailwindcss.com/docs/breakpoints
 https://tailwindcss.com/docs/object-fit
+https://tailwindcss.com/docs/grid-template-columns
+https://tailwindcss.com/docs/gap
 
 https://fonts.google.com/specimen/Nunito?query=nunito
 
