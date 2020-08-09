@@ -21,7 +21,7 @@ https://fonts.google.com/specimen/Nunito?query=nunito
 
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #11 - @apply Directive
+Tailwind CSS Tutorial #12 - Grids
 
 git init
 git add README.md
