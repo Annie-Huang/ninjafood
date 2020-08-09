@@ -29,6 +29,7 @@ https://heroicons.dev/?search=clock
 https://heroicons.dev/?search=home
 https://heroicons.dev/?search=question
 https://heroicons.dev/?search=mail
+https://heroicons.dev/?search=menu
 ===================================================================================
 Up to:
 Tailwind CSS Tutorial #17 - Responsive Nav (part 2)
@@ -139,5 +140,6 @@ font-family: 'Nunito', sans-serif;
 
 ---------------
 
-<nav class="text-right">        << Shift text to the right.
+<nav class="text-right">                        << Shift text to the right.
+<div class="px-4 cursor-pointer md:hidden">     << Display none
 
