@@ -31,7 +31,7 @@ https://heroicons.dev/?search=question
 https://heroicons.dev/?search=mail
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #15 - Hover Effects
+Tailwind CSS Tutorial #16 - Responsive Nav (part 1)
 
 git init
 git add README.md
