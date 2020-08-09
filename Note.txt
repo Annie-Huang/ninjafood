@@ -25,6 +25,9 @@ https://tailwindcss.com/docs/letter-spacing/#app
 https://fonts.google.com/specimen/Nunito?query=nunito
 https://heroicons.dev/                  << You can switch between outline and solid
 https://heroicons.dev/?search=clock
+https://heroicons.dev/?search=home
+https://heroicons.dev/?search=question
+https://heroicons.dev/?search=mail
 ===================================================================================
 Up to:
 Tailwind CSS Tutorial #14 - Icons
