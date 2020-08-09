@@ -93,3 +93,6 @@ font-family: 'Nunito', sans-serif;
 <div class="bg-white rounded">      <<< this will only make the div corner rounded but it cannot control the image inside the div have to rounder corner as well
 <div class="bg-white rounded overflow-hidden">      <<< This one can rounded the image inside the div as well
 
+--------------------
+
+<span class="block">Recipe by Mario</span>      << This will just make it as a block element
