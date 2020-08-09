@@ -43,3 +43,25 @@ Once you add a color, e.g.
           200: '#888883',
         }
 Then you do can 'text-primary', 'border-primary', "bg-secondary-100 text-secondary-200" etc
+
+
+Currently available font from tailwind-default.config.js:
+    fontFamily: {
+      sans: [
+        'system-ui',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        '"Segoe UI"',
+        'Roboto',
+        '"Helvetica Neue"',
+        'Arial',
+        '"Noto Sans"',
+        'sans-serif',
+        '"Apple Color Emoji"',
+        '"Segoe UI Emoji"',
+        '"Segoe UI Symbol"',
+        '"Noto Color Emoji"',
+      ],
+      serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+      mono: ['Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
+    },
