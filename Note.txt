@@ -19,6 +19,8 @@ https://tailwindcss.com/docs/object-fit
 https://tailwindcss.com/docs/grid-template-columns
 https://tailwindcss.com/docs/gap
 https://tailwindcss.com/docs/grid-column
+https://tailwindcss.com/docs/cursor
+https://tailwindcss.com/docs/letter-spacing/#app
 
 https://fonts.google.com/specimen/Nunito?query=nunito
 
@@ -113,3 +115,9 @@ font-family: 'Nunito', sans-serif;
     <main class="col-span-2"></main>            <<< How to make grid expand
 
   </div>
+
+----------------------------
+
+<a href="#" class="text-primary rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider">Log in</a>
+    << tracking-wider is referring the Letter Spacing (Utilities for controlling the tracking (letter spacing) of an element.)
+
