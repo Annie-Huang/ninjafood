@@ -24,6 +24,10 @@ https://tailwindcss.com/docs/letter-spacing/#app
 https://tailwindcss.com/docs/box-shadow
 https://tailwindcss.com/docs/align-items
 
+https://tailwindcss.com/docs/transition-property
+https://tailwindcss.com/docs/transition-timing-function
+https://tailwindcss.com/docs/transition-duration
+
 https://fonts.google.com/specimen/Nunito?query=nunito
 https://heroicons.dev/                  << You can switch between outline and solid
 https://heroicons.dev/?search=clock
@@ -146,3 +150,5 @@ font-family: 'Nunito', sans-serif;
 <div class="flex justify-between items-center">     << items-center is align-items
 <ul class="text-sm mt-6 hidden md:block">           << small screen is display none and >md is display block
 
+<a href="#" class="btn text-primary border-primary md:border-2 hover:bg-primary hover:text-white transition ease-out duration-500">Log in</a>
+    << This will transition on: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
