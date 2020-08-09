@@ -21,6 +21,7 @@ https://tailwindcss.com/docs/gap
 https://tailwindcss.com/docs/grid-column
 https://tailwindcss.com/docs/cursor
 https://tailwindcss.com/docs/letter-spacing/#app
+https://tailwindcss.com/docs/box-shadow
 
 https://fonts.google.com/specimen/Nunito?query=nunito
 https://heroicons.dev/                  << You can switch between outline and solid
