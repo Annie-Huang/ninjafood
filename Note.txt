@@ -20,7 +20,7 @@ https://fonts.google.com/specimen/Nunito?query=nunito
 
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #7 - Using Flexbox
+Tailwind CSS Tutorial #8 - Responsive Classes
 
 git init
 git add README.md
