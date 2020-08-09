@@ -18,7 +18,7 @@ https://fonts.google.com/specimen/Nunito?query=nunito
 
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #6 - Custom Fonts
+Tailwind CSS Tutorial #7 - Using Flexbox
 
 git init
 git add README.md
