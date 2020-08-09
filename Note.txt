@@ -33,7 +33,7 @@ https://heroicons.dev/?search=mail
 https://heroicons.dev/?search=menu
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #17 - Responsive Nav (part 2)
+Tailwind CSS Tutorial #18 - Transitions
 
 git init
 git add README.md
