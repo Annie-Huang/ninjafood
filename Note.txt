@@ -98,3 +98,4 @@ font-family: 'Nunito', sans-serif;
 
 <span class="block">Recipe by Mario</span>          << This will just make it as a block element
 <img src="img/stew.jpg" alt="stew" class="w-full h-32 sm:h-48 object-cover">      << full width
+            <div class="bg-secondary-100 text-secondary-200 text-xs uppercase font-bold rounded-full">      << half circle look for rounded-full
