@@ -21,7 +21,7 @@ https://fonts.google.com/specimen/Nunito?query=nunito
 
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #10 - Badges
+Tailwind CSS Tutorial #11 - @apply Directive
 
 git init
 git add README.md
