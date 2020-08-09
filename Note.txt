@@ -29,6 +29,9 @@ C:\react\ninjafood>npm run build-css
 C:\react\ninjafood>npx tailwindcss init --full
 C:\react\ninjafood>npx tailwindcss init
 
+
 Whenever you update tailwind.config.js file, you will have to rerun
 npm run build-css
 to regenerate the public/styles.css file. And then you can start using it in index.html
+
+C:\react\ninjafood>npm run build-css     << Rebuild, need to do it everything you change tailwind.config.js
