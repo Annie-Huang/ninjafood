@@ -7,6 +7,10 @@ https://github.com/Annie-Huang/ninjafood
 https://tailwindcss.com/docs/installation/
 https://tailwindcss.com/docs/font-size/#app
 https://tailwindcss.com/docs/customizing-colors#default-color-palette
+https://tailwindcss.com/docs/padding
+https://tailwindcss.com/docs/margin
+https://tailwindcss.com/docs/border-width
+https://tailwindcss.com/docs/border-color
 ===================================================================================
 Up to:
 Tailwind CSS Tutorial #4 - Margin, Padding & Borders
