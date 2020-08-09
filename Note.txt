@@ -22,6 +22,7 @@ https://tailwindcss.com/docs/grid-column
 https://tailwindcss.com/docs/cursor
 https://tailwindcss.com/docs/letter-spacing/#app
 https://tailwindcss.com/docs/box-shadow
+https://tailwindcss.com/docs/align-items
 
 https://fonts.google.com/specimen/Nunito?query=nunito
 https://heroicons.dev/                  << You can switch between outline and solid
@@ -142,4 +143,5 @@ font-family: 'Nunito', sans-serif;
 
 <nav class="text-right">                        << Shift text to the right.
 <div class="px-4 cursor-pointer md:hidden">     << Display none
+<div class="flex justify-between items-center">     << items-center is align-items
 
