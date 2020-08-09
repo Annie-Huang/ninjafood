@@ -30,7 +30,7 @@ https://heroicons.dev/?search=question
 https://heroicons.dev/?search=mail
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #14 - Icons
+Tailwind CSS Tutorial #15 - Hover Effects
 
 git init
 git add README.md
