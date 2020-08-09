@@ -137,3 +137,7 @@ font-family: 'Nunito', sans-serif;
         ists, make sure that any `@import` statements are being properly processed *before* Tailwind CSS sees your CSS, as `@apply` can only be used
         for classes in the same CSS tree.
 
+---------------
+
+<nav class="text-right">        << Shift text to the right.
+
