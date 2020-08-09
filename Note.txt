@@ -38,7 +38,7 @@ https://heroicons.dev/?search=mail
 https://heroicons.dev/?search=menu
 ===================================================================================
 Up to:
-Tailwind CSS Tutorial #18 - Transitions
+Tailwind CSS Tutorial #19 - Wrap Up
 
 git init
 git add README.md
