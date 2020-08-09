@@ -129,3 +129,10 @@ font-family: 'Nunito', sans-serif;
 
 <a href="/" class="hover:text-gray-700">Food Ninja</a>      << hover effects
 <a href="#" class="btn text-primary border-primary md:border-2 hover:bg-primary hover:text-white">Log in</a>    << hover on more than one properties
+<div class="card hover:shadow-lg">
+    << hover effect cannot used in @apply otherwise you will get error of:
+        CssSyntaxError: C:\react\ninjafood\src\styles.css:7:3: `@apply` cannot be used with `.hover\:shadow-lg` because `.hover\:shadow-lg` eith
+        er cannot be found, or its actual definition includes a pseudo-selector like :hover, :active, etc. If you're sure that `.hover\:shadow-lg` ex
+        ists, make sure that any `@import` statements are being properly processed *before* Tailwind CSS sees your CSS, as `@apply` can only be used
+        for classes in the same CSS tree.
+
