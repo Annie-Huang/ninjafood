@@ -41,6 +41,8 @@ to regenerate the public/styles.css file. And then you can start using it in ind
 
 C:\react\ninjafood>npm run build-css     << Rebuild, need to do it everything you change tailwind.config.js
 
+-----------------
+
 Once you add a color, e.g.
         primary: '#ff6363',
         secondary: {
@@ -49,6 +51,7 @@ Once you add a color, e.g.
         }
 Then you do can 'text-primary', 'border-primary', "bg-secondary-100 text-secondary-200" etc
 
+-------------------
 
 Currently available font from tailwind-default.config.js:
     fontFamily: {
@@ -80,6 +83,13 @@ To embed a font, copy the code into the <head> of your html
 CSS rules to specify families
 font-family: 'Nunito', sans-serif;
 
+---------------
 
 <a href="/" class="text-green-500 sm:text-red-500 lg:text-blue-500">Food Ninja</a>
 <a href="/" class="text-sm md:text-xl">Food Ninja</a>
+
+-----------------
+
+<div class="bg-white rounded">      <<< this will only make the div corner rounded but it cannot control the image inside the div have to rounder corner as well
+<div class="bg-white rounded overflow-hidden">      <<< This one can rounded the image inside the div as well
+
